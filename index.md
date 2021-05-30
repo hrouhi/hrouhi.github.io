@@ -24,8 +24,8 @@
 ---
 + Diploma : Maryam high school
 + BSc in Computer Engineering-Software Orientation /Azad University of Mashhad,Iran
-+ postgraduate student 
-_ payam Noor University of Tehran  
++ Postgraduate student 
+_ payameNoor University of Tehran  
 
 ### language
 
