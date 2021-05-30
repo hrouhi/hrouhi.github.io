@@ -36,7 +36,7 @@ _ payam Noor University of Tehran
 ### Favorites
 
 ---
-+ Programming
++ Movies
 + Studing historical books
 + travel 
 + Swimming
