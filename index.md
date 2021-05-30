@@ -1,30 +1,31 @@
 
-### Anahita Taheri
+### Hadiss Rouhi
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
-+ location : Tehran , I.R.Iran
++ name: Hadiss
++ last name : Rouhi
++ Date of birth : 1980/Jun/25
++ I am an employee and software engineering student
++ location : Mashhad , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Technical Manager of the Travel Agency
+
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Maryam high school
++ BSc in Computer Engineering-Software Orientation /Azad University of Mashhad,Iran
++ postgraduate student 
+_ payam Noor University of Tehran  
 
 ### language
 
@@ -35,16 +36,15 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
++ Programming
 + Studing historical books
 + travel 
-+ playing volleyball
++ Swimming
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
-
++ I am Technical Manager at Parham Seir Shargh, Mashhad, Iran
 
 
 
